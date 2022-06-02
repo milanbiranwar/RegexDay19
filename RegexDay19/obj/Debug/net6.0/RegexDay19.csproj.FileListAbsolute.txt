@@ -1,0 +1,15 @@
+C:\Users\milan\source\repos\RegexDay19\RegexDay19\bin\Debug\net6.0\RegexDay19.exe
+C:\Users\milan\source\repos\RegexDay19\RegexDay19\bin\Debug\net6.0\RegexDay19.deps.json
+C:\Users\milan\source\repos\RegexDay19\RegexDay19\bin\Debug\net6.0\RegexDay19.runtimeconfig.json
+C:\Users\milan\source\repos\RegexDay19\RegexDay19\bin\Debug\net6.0\RegexDay19.dll
+C:\Users\milan\source\repos\RegexDay19\RegexDay19\bin\Debug\net6.0\RegexDay19.pdb
+C:\Users\milan\source\repos\RegexDay19\RegexDay19\obj\Debug\net6.0\RegexDay19.csproj.AssemblyReference.cache
+C:\Users\milan\source\repos\RegexDay19\RegexDay19\obj\Debug\net6.0\RegexDay19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milan\source\repos\RegexDay19\RegexDay19\obj\Debug\net6.0\RegexDay19.AssemblyInfoInputs.cache
+C:\Users\milan\source\repos\RegexDay19\RegexDay19\obj\Debug\net6.0\RegexDay19.AssemblyInfo.cs
+C:\Users\milan\source\repos\RegexDay19\RegexDay19\obj\Debug\net6.0\RegexDay19.csproj.CoreCompileInputs.cache
+C:\Users\milan\source\repos\RegexDay19\RegexDay19\obj\Debug\net6.0\RegexDay19.dll
+C:\Users\milan\source\repos\RegexDay19\RegexDay19\obj\Debug\net6.0\refint\RegexDay19.dll
+C:\Users\milan\source\repos\RegexDay19\RegexDay19\obj\Debug\net6.0\RegexDay19.pdb
+C:\Users\milan\source\repos\RegexDay19\RegexDay19\obj\Debug\net6.0\RegexDay19.genruntimeconfig.cache
+C:\Users\milan\source\repos\RegexDay19\RegexDay19\obj\Debug\net6.0\ref\RegexDay19.dll
